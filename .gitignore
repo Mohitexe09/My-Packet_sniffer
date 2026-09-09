@@ -1,0 +1,4 @@
+packets.db
+*.pcap
+__pycache__/
+*.pyc
